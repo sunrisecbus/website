@@ -1,0 +1,23 @@
+{{ define "main" }}
+  <div id="titles">
+	  <h1 class="title">{{ .Title }}</h1>
+	  <div class="subtitle">{{ .Description }}</div>
+  </div>
+{{ $headerImage := resources.Get "homepage-banner.jpg" }}
+<style>
+#titles {
+	display: flex;
+	flex-direction: column;
+	min-height:15em;
+	width: 100%;
+	background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('{{$headerImage.RelPermalink}}');
+	background-position: 50% 80%;
+	color: white;
+}
+</style>
+  <h1> Table of Contents </h1>
+  {{ .TableOfContents }}
+  <article id="content">
+        {{ .Content }}
+  </article>
+{{ end }}

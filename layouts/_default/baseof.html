@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{{ block "title" . }}
+      {{ .Site.Title }}
+    {{ end }}</title>
+    {{ $style := resources.Get "styles.css" }}
+    {{ $favicon:= resources.Get "favicon.jpg" }}
+    <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+    <link rel=icon href="{{$favicon.RelPermalink}}">
+  </head>
+  <body>
+    {{ block "header" . }}
+    <!-- Shared header can be overridden if need be in  -->
+    {{ end }}
+    <!-- Code that all your templates share, like a header -->
+    {{ block "main" . }}
+      <!-- The part of the page that begins to differ between templates -->
+    {{ end }}
+    {{ block "footer" . }}
+    <!-- More shared code, perhaps a footer but that can be overridden if need be in  -->
+    {{ end }}
+  </body>
+</html>

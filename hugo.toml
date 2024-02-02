@@ -1,0 +1,8 @@
+baseURL = 'https://sunrisecbus.net/'
+languageCode = 'en-us'
+title = 'Sunrise Columbus'
+[markup]
+  [markup.tableOfContents]
+    endLevel = 3
+    ordered = false
+    startLevel = 1
