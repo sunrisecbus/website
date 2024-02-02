@@ -12,7 +12,7 @@ If you’re over 35 please check out the [Supporting the Hub as an Elder](#suppo
 # Joining the hub
 
 1.  Fill out the [interest form](https://docs.google.com/forms/d/e/1FAIpQLSf9k_YluSrbe1MNahDXHnJUgaZrfZ0mUFM1FDg8_39xktQwyw/viewform), this will get you in our system.
-2.  Someone from the Hub will reach out to you for a 1-on-1 (what's that?).
+2.  Someone from the Hub will reach out to you for a 1-on-1 meeting. This will help us know who you are and make sure you know someone in meetings!
 3.  After your 1-on-1, you will be invited to our Slack and meetings!
 
 # Supporting the hub as an elder
