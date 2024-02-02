@@ -38,3 +38,5 @@ Since 2021, we have:
 -   [Joined a Mutual Aid coalition](https://www.instagram.com/p/Co5Ya_Tvjbi/?img_index=1) in support of East Palestine after Norfolk Southern caused one of the region's worst environmental disasters.
 -   ..And more!
 
+# Socials
+You can find us [@sunrisecolumbus on Instagram](https://www.instagram.com/sunrisecolumbus/?hl=en), [Twitter](https://twitter.com/SunriseColumbus), and [Facebook](https://www.facebook.com/sunrisecolumbusoh/).
