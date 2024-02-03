@@ -13,9 +13,16 @@
   </head>
   <body>
     {{ block "header" . }}
-    <!-- Shared header can be overridden if need be in  -->
+    <header>
+	    <nav id="top-header">
+		    {{ $favicon:= resources.Get "favicon.jpg" }}
+		    <a href="{{ .Site.BaseURL }}">Home</a>
+		  {{ range .Pages }}
+		    <a href="{{ .RelPermalink }}" class="header-page-link">{{ .LinkTitle }}</a>
+		  {{ end }}
+	    </nav>
+    </header>
     {{ end }}
-    <!-- Code that all your templates share, like a header -->
     {{ block "main" . }}
       <!-- The part of the page that begins to differ between templates -->
     {{ end }}

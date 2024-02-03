@@ -13,6 +13,17 @@
     font-size: 1.1rem;
 }
 
+html {
+	background-color: #fffafa;
+}
+
+body {
+	margin: 0.5em auto;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	max-width: 45rem;
+}
+
 h1,h2,h3,h4,h5,h6 {
 	font-family: ui-monospace, 
              Menlo, Monaco, 
@@ -30,6 +41,14 @@ h1 {
 	font-size: 1.8rem;
 }
 
+a {
+    color: chocolate;
+}
+
+a:visited {
+	color: purple;
+}
+
 .title {
 	font-size: 3rem;
 	text-align: center;
@@ -40,25 +59,24 @@ h1 {
 	text-align: center;
 }
 
-html {
-	background-color: #fffafa;
-}
-
-body {
-	margin: 0.5em auto;
-	max-width: 45rem;
-}
-
 #TableOfContents > ul {
   list-style-type: none;
 }
 
-a {
-    color: chocolate;
+.header-page-link {
+	margin-top: auto;
+	margin-left: 1em;
 }
 
-a:visited {
-	color: purple;
+#top-header {
+	display: flex;
+	max-height: 3em;
+	margin-bottom: 0.5vh;
+	flex-flow: row wrap;
+}
+
+img {
+	height: 100%;
 }
 
 
