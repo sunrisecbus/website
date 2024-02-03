@@ -1,5 +1,6 @@
 ---
 title: "Free Fare Zine"
+draft: True
 ---
 # Sunrise Columbus TRANSIT Zine 
 
