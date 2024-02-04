@@ -1,4 +1,4 @@
-baseURL = 'https://sunrisecbus.net/'
+baseURL = 'https://sunrise-cbus.org/'
 languageCode = 'en-us'
 title = 'Sunrise Columbus'
 [markup]
