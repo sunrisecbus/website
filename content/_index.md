@@ -19,8 +19,8 @@ If you’re over 35 please check out the [Supporting the Hub as an Elder](#suppo
 
 If you are over 35 and want to support the hub, please reach out to us at <team@cbus.smvmt.org>. We have a place for everyone to help out. If you're over 60, we recommend you check out [the Third Act working group in Ohio](https://thirdact.org/working-groups/ohio/).
 
-# Supporting us Financially
-To make a financial contributing to the Columbus chapter of the sunrise movement, please visit [our Act Blue page](https://secure.actblue.com/donate/sunrisecbus).
+# Make a financial contribution
+To contribute funds to the Columbus chapter of the sunrise movement, please visit [our Act Blue page](https://secure.actblue.com/donate/sunrisecbus).
 
 # Contact Us
 All inquiries should be sent to <team@cbus.smvmt.org>. We have a few people on the email, so we will get back to you quickly!
